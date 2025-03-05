@@ -25,9 +25,9 @@ html 코드 작성
 > 인용구문 작성
 
 ### 뱃지(Badge)
-[표시내용](url)
-[simple icons](https://simpleicons.org/)
-[Shields.io](https://shields.io/)
-![Static Badge](https://img.shields.io/badge/:build-passing-brightgreen)
-<img alt="Static Badge" src="https://img.shields.io/badge/:build-passing-brightgreen">
+[표시내용](url)  
+[simple icons](https://simpleicons.org/)  
+[Shields.io](https://shields.io/)  
+![Static Badge](https://img.shields.io/badge/:build-passing-brightgreen)  
+<img alt="Static Badge" src="https://img.shields.io/badge/:anaconda-brightgreen">  
 
